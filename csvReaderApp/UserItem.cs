@@ -2,6 +2,7 @@
 using CsvHelper.Configuration;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Globalization;
 using System.IO;
 using System.Linq;
@@ -12,9 +13,13 @@ namespace csvReaderApp
     public class UserItem
     {
         public int Id { get; set; }
+        [DisplayName("Регион")]
         public string Region { get; set; }
+        [DisplayName("Имя")]
         public string FirstName { get; set; }
+        [DisplayName("Фамилия")]
         public string LastName { get; set; }
+        [DisplayName("номер телефона")]
         public string Phone { get; set; }
 
         public static List<UserItem> LoadFile(string path)
