@@ -1,0 +1,17 @@
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\bin\Debug\netcoreapp3.1\csvReaderApp.exe
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\bin\Debug\netcoreapp3.1\csvReaderApp.deps.json
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\bin\Debug\netcoreapp3.1\csvReaderApp.runtimeconfig.json
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\bin\Debug\netcoreapp3.1\csvReaderApp.runtimeconfig.dev.json
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\bin\Debug\netcoreapp3.1\csvReaderApp.dll
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\bin\Debug\netcoreapp3.1\csvReaderApp.pdb
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\obj\Debug\netcoreapp3.1\csvReaderApp.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\obj\Debug\netcoreapp3.1\csvReaderApp.Form1.resources
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\obj\Debug\netcoreapp3.1\csvReaderApp.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\obj\Debug\netcoreapp3.1\csvReaderApp.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\obj\Debug\netcoreapp3.1\csvReaderApp.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\obj\Debug\netcoreapp3.1\csvReaderApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\obj\Debug\netcoreapp3.1\csvReaderApp.csproj.CopyComplete
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\obj\Debug\netcoreapp3.1\csvReaderApp.dll
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\obj\Debug\netcoreapp3.1\csvReaderApp.pdb
+C:\Users\Nikita\source\repos\csvReaderApp\csvReaderApp\obj\Debug\netcoreapp3.1\csvReaderApp.genruntimeconfig.cache
